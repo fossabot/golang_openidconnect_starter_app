@@ -1,4 +1,3 @@
-
 # go-getting-started
 
 A barebones Go app, which can easily be deployed to Heroku.
@@ -30,6 +29,7 @@ $ heroku open
 or
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fultraauth%2Fgolang_openidconnect_starter_app.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fultraauth%2Fgolang_openidconnect_starter_app?ref=badge_shield)
 
 
 ## Documentation
@@ -37,3 +37,7 @@ or
 For more information about using Go on Heroku, see these Dev Center articles:
 
 - [Go on Heroku](https://devcenter.heroku.com/categories/go)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fultraauth%2Fgolang_openidconnect_starter_app.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fultraauth%2Fgolang_openidconnect_starter_app?ref=badge_large)
